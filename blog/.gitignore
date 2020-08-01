@@ -1,0 +1,6 @@
+./blog/query/node_modules
+./blog/posts/node_modules
+./blog/comments/node_modules
+./blog/eventbus/node_modules
+./blog/moderation/node_modules
+./blog/client/node_modules
