@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: clever_sutherland/posts:0.0.1
+          image: microservicepoc/posts
